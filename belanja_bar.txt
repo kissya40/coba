@@ -3,3 +3,4 @@
 -sirup
 -kopi
 -gula
+-teh
